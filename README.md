@@ -11,8 +11,5 @@
 # Project 3: Review Scrapper (https://github.com/kashyapn17/DS/tree/master/ReviewScrapper)
 - Using Python and Flask, built a basic text scrapper that fetches the reviews of customers from flipkart site for various products and deployed it in Heroku cloud platform.
 
-# Project 4: Covid-19 Mask detection
-- Implemented a small scale face-mask detection algorithm which detects people who are wearing masks, not wearing masks and wearing it incorrectly. 
-- Used a rented GPU on #Paperspace with machine type: P4000 with memory:30 GB and power of 8 CPUS. On Top of that used the TensorFlow object detection API of Faster-RCNN
-  InceptionV2 pre-trained on COCO.  The project still needs to be tuned with more training data such as lighting conditions and time of the day.
+
 
