@@ -1,6 +1,6 @@
 # Data Science
 
-# Project 1: Donors Choose project approval ()
+# Project 1: Donors Choose project approval (https://github.com/kashyapn17/DS/blob/master/Donors_choose/DonorsChoose.ipynb)
 - The goal of the project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. 
 - Pre-processed the text data using TFIDF, TDIDF-W2V and built Naive Bayes and GBDT(LightGBM) models to  classify whether the submitted project will be approved or not.
 
