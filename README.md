@@ -1,6 +1,6 @@
 # Data Science
 
-# Project 1: L&T Vehicle Loan Default Prediction (
+# Project 1: L&T Vehicle Loan Default Prediction (https://github.com/kashyapn17/DS/tree/master/L%26T_Loan_Default)
 - Financial institutions incur significant losses due to the default of vehicle loans. The need for a better credit risk scoring model is also raised by these institutions.
 - The goal of the project is to accurately predict the probability of loanee/borrower defaulting on a vehicle loan in the first EMI (Equated Monthly Instalments) on the due   date.
 - Doing so will ensure that clients capable of repayment are not rejected and important determinants can be identified which can be further used for minimising the default rates.
